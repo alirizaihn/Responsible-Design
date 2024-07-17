@@ -1,5 +1,3 @@
-import { TvIcon } from '@heroicons/react/16/solid';
-import { XMarkIcon } from '@heroicons/react/24/outline';
 import React from 'react';
 
 function Nav({isOpen}) {
